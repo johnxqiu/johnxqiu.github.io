@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "John X. Qiu's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2014: B.B.A. Economics with Minor in Math, University of Tennessee, Haslam College of Business
+* 2016: M.S. Business Analytics, University of Tennessee, Haslam College of Business
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Experience
+### Sept 2023 - Present: Digital Harbor
+* Lead Machine Learning Engineer
+* Developing of AI Conversational Intelligence Platform using OpenAI's Whisper voice-to-text transcription and GPT instruction prompt generation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Technologies used: Python, Huggingface Transformers, Openai API, LangChain
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### 2022 - 2023: NextRoll
+* Senior Machine Learning Engineer - Core Engineering
+* Lead development and deployment of a novel low-latency selection algorithm for upper bid-funnel ad valuation.
+* Designed low-latency neural model serving system using pytorch for model training and Go model serving.
+* Developed daily model refit MLOps Pipeline with Apache Airflow
+* Ran A/B tests against a baseline sampling model and found the neural model improved ad selection increasing click-through rates by over 15% and reduced Cost-Per-Click cost metrics by over 20%.
+* Followed Agile code development and lead sprint planning, scoping and grooming work tickets.
+
+Technologies used: python, pyspark, pytorch, go, apache airflow, aws, s3, ec2, docker, ecr, jira, buildkite, datadog, pagerduty, sql
+
+### 2019 - 2022: Capital One Financial Organization
+* Senior -> Principal Data Scientist
+* Technical lead developing NLP models using customer service call transcript data with Python, scikit-learn, pytorch 
+* Deployed tools include supervised call reason detection, complaint detection, Net promoter score prediction, fraudster detection, job title canonicalization. Saved over 20 million dollars yearly in 2022 in agent time costs.
+* Experimenting with fine-tuned BERT LLM transformer models for unsupervised theme detection in call transcripts resulting in patent filing: US20220383867A1 and first author on corresponding publication.
+* Wrote quarterly model monitoring reports to track model performance, stability, and model explanatory analysis. Performed data ETL and analysis with SQL, Snowflake, Databricks.
+
+Technologies used: python, pyspark, pytorch, scikit-learn, databricks, aws, s3, ec2, docker, ecr, jira, jenkins, sql
+
+### 2016 - 2019: Oak Ridge National Lab
+* Health Data Science Institute Researcher
+* Lead development of National Cancer Institute’s NLP Pilot Program for AI cancer diagnosis using text pathology reports with Python, scikit-learn, pytorch, tensorflow, theano, keras
+* Compared statistical NLP modeling - logistic regression, svms, xgboost, vs emerging deep learning architectures - CNNs, RNNs, LSTMs, Attention networks, LLMs including BERT.
+* Applied population scale deep learning leveraging DoE Supercomputers with distributed data parallelism.
+* Developed novel approaches for class imbalance and label scarcity with multitask modeling, synthetic data (smote, snorkel), pre trained word embeddings (gensim, glove) and subword embeddings (fastText, Byte Pair Encodings), tagging (spacy, nltk)
+* Mentored undergraduate and graduate student interns resulting in publications and co-authorships.
+
+Technologies used: python, pytorch, scikit-learn, tensorflow, theano, keras, gensim, glove, fastText, spacy, nltk
+
+### 2015: University of Tennessee, Knoxville
+* Teaching Assistant - Statistics 201

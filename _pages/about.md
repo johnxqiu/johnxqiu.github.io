@@ -12,7 +12,7 @@ How's it going? I'm John. I hope you're having a great day!
 
 I'm a Machine Language Engineer and Natural Language Processing (NLP) Scientist. I specialize in developing and deploying deep learning models at big data scale. I'm currently working at Digital Harbor where I'm building a Conversational Intelligence Platform using LangChain and the OpenAI API. 
 
-I've previously built models with web advertising Data, customer service dialogues in finance, and medical text records. I've published research while affiliated with Capital One, Oak Ridge National Lab, and the University of Tennessee, Knoxville.
+I've previously built models with web advertising data, customer service dialogues in finance, and medical text records. I've published research while affiliated with Capital One, Oak Ridge National Lab, and the University of Tennessee, Knoxville.
 
 I'm based in Arlington, Virginia in the Washington DC Metro. For fun, I like board games, playing guitar or violin, powerlifting, and especially rock climbing!
 

@@ -14,15 +14,15 @@ I'm a Machine Language Engineer and Natural Language Processing (NLP) Scientist.
 
 I've previously built models with web advertising Data, customer service dialogues in finance, and medical text records. I've published research while affiliated with Capital One, Oak Ridge National Lab, and the University of Tennessee, Knoxville.
 
-I'm based in Arlington Virginia in the Washington DC Metro. For fun I like board games, playing guitar or violin, powerlifting, and especially rock climbing!
+I'm based in Arlington, Virginia in the Washington DC Metro. For fun, I like board games, playing guitar or violin, powerlifting, and especially rock climbing!
 
-# Education
+## Education
 * 2014: B.B.A. Economics with Minor in Math, University of Tennessee, Haslam College of Business
 * 2016: M.S. Business Analytics, University of Tennessee, Haslam College of Business
 
-# Experience
-## Sept 2023 - Present: Digital Harbor
-### Lead Machine Learning Engineer
+## Experience
+### Sept 2023 - Present: Digital Harbor
+Lead Machine Learning Engineer
 * Developing of AI Conversational Intelligence Platform using OpenAI's Whisper voice-to-text transcription and GPT instruction prompt generation.
 
 Technologies used: Python, Huggingface Transformers, Openai API, LangChain

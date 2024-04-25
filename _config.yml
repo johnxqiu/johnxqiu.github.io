@@ -85,7 +85,6 @@ analytics:
 # Site Author
 author:
   name             : "John X. Qiu"
-  avatar           : #"work_computer.jpeg"
   bio              : "Machine Learning Engineer"
   location         : "Arlington, VA"
   employer         :

@@ -9,18 +9,18 @@ redirect_from:
 
 How's it going? I'm John. I hope you're having a great day!
 
-I'm a Machine Language Engineer and Natural Language Processing (NLP) Scientist. I specialize in developing and deploying deep learning and models at big data scale.
+I'm a Machine Learning Engineer and Natural Language Processing (NLP) Scientist. I specialize in developing and deploying deep learning and models at big data scale.
 
 I'm currently at Thomson Reuters as an Applied Scientist in Natural Language Processing and Information Retrieval where I'm developing AI solutions for Legal Research, powering Westlaw and CoCounsel.
 
-I've previously built and deployed AI solutions with web advertising data, customer service dialogues in finance, and medical text records. I've published research while affiliated with Capital One, Oak Ridge National Lab, and the University of Tennessee, Knoxville.
+I've previously built and deployed AI solutions with web advertising data, customer service dialogues, and medical text records. I've published research while affiliated with Capital One, Oak Ridge National Lab, and the University of Tennessee, Knoxville.
 
-I'm based in Arlington, Virginia in the Washington DC Metro. For fun, I like board games, playing guitar or violin, powerlifting, and especially rock climbing!
+For fun I like board games, playing guitar or violin, powerlifting, and especially rock climbing!
 
 ## Experience
 ### Jan 2024 - Present: Thomson Reuters
 Applied Scientist - Natural Language Processing and Information Retrieval
-* Lead development of a scalable Retrieval Augmented Generation system for legal document summarization and question answering.
+* Worked on scalable Retrieval Augmented Generation system for legal document summarization and question answering.
 
 Core Technologies used: Python, Openai API, Azure, AWS, Pydantic, Langchain
 
@@ -30,7 +30,7 @@ Lead Machine Learning Engineer
 
 Core Technologies used: Python, Huggingface, Transformers, Openai API, LangChain
 
-### 2022 - 2023: NextRoll Inc.
+### Jan 2022 - Sept 2023: NextRoll Inc.
 Senior Machine Learning Engineer - Core Engineering
 * Lead development and deployment of a novel low-latency ad selection system for upper bid-funnel ad valuation in real-time bidding.
 * Designed low-latency neural model serving system using pytorch for model training and Go model serving.
@@ -40,7 +40,7 @@ Senior Machine Learning Engineer - Core Engineering
 
 Technologies used: python, pyspark, pytorch, go, apache airflow, aws, s3, ec2, docker, ecr, jira, buildkite, datadog, pagerduty, sql
 
-### 2019 - 2022: Capital One Financial Organization
+### Feb 2019 - Jan 2022: Capital One Financial Organization
 Senior -> Principal Data Scientist
 * Technical lead developing NLP models using customer service call transcript data with Python, scikit-learn, pytorch 
 * Deployed tools include supervised call reason detection, complaint detection, Net promoter score prediction, fraudster detection, job title canonicalization. Saved over 20 million dollars yearly in 2022 in agent time costs.

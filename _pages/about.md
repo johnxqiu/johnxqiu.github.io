@@ -30,7 +30,7 @@ Lead Machine Learning Engineer
 
 Core Technologies used: Python, Huggingface, Transformers, Openai API, LangChain
 
-### 2022 - 2023: NextRoll Inc.
+### Jan 2022 - Sept 2023: NextRoll Inc.
 Senior Machine Learning Engineer - Core Engineering
 * Lead development and deployment of a novel low-latency ad selection system for upper bid-funnel ad valuation in real-time bidding.
 * Designed low-latency neural model serving system using pytorch for model training and Go model serving.
@@ -40,7 +40,7 @@ Senior Machine Learning Engineer - Core Engineering
 
 Technologies used: python, pyspark, pytorch, go, apache airflow, aws, s3, ec2, docker, ecr, jira, buildkite, datadog, pagerduty, sql
 
-### 2019 - 2022: Capital One Financial Organization
+### Feb 2019 - Jane 2022: Capital One Financial Organization
 Senior -> Principal Data Scientist
 * Technical lead developing NLP models using customer service call transcript data with Python, scikit-learn, pytorch 
 * Deployed tools include supervised call reason detection, complaint detection, Net promoter score prediction, fraudster detection, job title canonicalization. Saved over 20 million dollars yearly in 2022 in agent time costs.

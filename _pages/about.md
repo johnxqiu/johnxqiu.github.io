@@ -10,26 +10,30 @@ redirect_from:
 
 How's it going? I'm John. I hope you're having a great day!
 
-I'm a Machine Language Engineer and Natural Language Processing (NLP) Scientist. I specialize in developing and deploying deep learning models at big data scale. I'm currently working at Digital Harbor where I'm building a Conversational Intelligence Platform using LangChain and the OpenAI API. 
+I'm a Machine Language Engineer and Natural Language Processing (NLP) Scientist. I specialize in developing and deploying deep learning and models at big data scale.
 
-I've previously built models with web advertising data, customer service dialogues in finance, and medical text records. I've published research while affiliated with Capital One, Oak Ridge National Lab, and the University of Tennessee, Knoxville.
+I'm currently at Thomson Reuters as an Applied Scientist in Natural Language Processing and Information Retrieval where I'm developing AI solutions for Legal Research, powering Westlaw and CoCounsel.
+
+I've previously built and deployed AI solutions with web advertising data, customer service dialogues in finance, and medical text records. I've published research while affiliated with Capital One, Oak Ridge National Lab, and the University of Tennessee, Knoxville.
 
 I'm based in Arlington, Virginia in the Washington DC Metro. For fun, I like board games, playing guitar or violin, powerlifting, and especially rock climbing!
 
-## Education
-* 2014: B.B.A. Economics with Minor in Math, University of Tennessee, Haslam College of Business
-* 2016: M.S. Business Analytics, University of Tennessee, Haslam College of Business
-
 ## Experience
-### Sept 2023 - Present: Digital Harbor
-Lead Machine Learning Engineer
-* Developing of AI Conversational Intelligence Platform using OpenAI's Whisper voice-to-text transcription and GPT instruction prompt generation.
+### Jan 2024 - Present: Thomson Reuters
+Applied Scientist - Natural Language Processing and Information Retrieval
+* Lead development of a scalable Retrieval Augmented Generation system for legal document summarization and question answering.
 
-Technologies used: Python, Huggingface Transformers, Openai API, LangChain
+Core Technologies used: Python, Openai API, Azure, AWS, Pydantic, Langchain
+
+### Sept 2023 - Jan 2024: Digital Harbor
+Lead Machine Learning Engineer
+* Developed AI Conversational Intelligence Platform using OpenAI's Whisper voice-to-text transcription and GPT prompt generation for video call transcription and summarization.
+
+Core Technologies used: Python, Huggingface, Transformers, Openai API, LangChain
 
 ### 2022 - 2023: NextRoll Inc.
 Senior Machine Learning Engineer - Core Engineering
-* Lead development and deployment of a novel low-latency selection algorithm for upper bid-funnel ad valuation.
+* Lead development and deployment of a novel low-latency ad selection system for upper bid-funnel ad valuation in real-time bidding.
 * Designed low-latency neural model serving system using pytorch for model training and Go model serving.
 * Developed daily model refit MLOps Pipeline with Apache Airflow
 * Ran A/B tests against a baseline sampling model and found the neural model improved ad selection increasing click-through rates by over 15% and reduced Cost-Per-Click cost metrics by over 20%.
@@ -58,3 +62,7 @@ Technologies used: python, pytorch, scikit-learn, tensorflow, theano, keras, gen
 
 ### 2015: University of Tennessee, Knoxville
 Teaching Assistant - Statistics 201
+
+## Education
+* 2016: M.S. Business Analytics, University of Tennessee, Haslam College of Business
+* 2014: B.B.A. Economics with Minor in Math, University of Tennessee, Haslam College of Business
